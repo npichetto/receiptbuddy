@@ -1,0 +1,7 @@
+{
+  "name": "receiptbuddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
