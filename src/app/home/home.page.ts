@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
-  constructor() {}
+  title = process.env['REACT_APP_TEST_ENV_VAR'];
 
 }
